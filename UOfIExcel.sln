@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UOfIExcel", "UOfIExcel\UOfIExcel.csproj", "{A37EDF35-DEBA-499F-A18A-987D46E1C16D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UOfITests", "UOfITests\UOfITests.csproj", "{F7F70DD2-D7E0-4711-B59E-BCA50821CFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A37EDF35-DEBA-499F-A18A-987D46E1C16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37EDF35-DEBA-499F-A18A-987D46E1C16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37EDF35-DEBA-499F-A18A-987D46E1C16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37EDF35-DEBA-499F-A18A-987D46E1C16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F70DD2-D7E0-4711-B59E-BCA50821CFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F70DD2-D7E0-4711-B59E-BCA50821CFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F70DD2-D7E0-4711-B59E-BCA50821CFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F70DD2-D7E0-4711-B59E-BCA50821CFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DB7745-D2F3-4615-AA41-AAE221D22DCE}
+	EndGlobalSection
+EndGlobal
