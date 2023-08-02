@@ -1,0 +1,42 @@
+Input Subward Excel Files Information:
+------------------------------------------------------------------
+File Name                      | Size       | Creation Date & Time
+------------------------------------------------------------------
+SubawardBudgetExample1.xlsx      35,791       8/2/2023 4:27:47 PM
+SubawardBudgetExample2.xlsx      39,351       8/2/2023 4:27:47 PM
+SubawardBudgetExample3.xlsx      37,650       8/2/2023 4:27:47 PM
+
+------------
+Full Data:
+------------
+Excel File Name                  Location        Amount
+-------------------------------------------------------
+SubawardBudgetExample1.xlsx      Indiana         25000
+SubawardBudgetExample1.xlsx      Mayo            20637
+SubawardBudgetExample1.xlsx      Purdue          25000
+SubawardBudgetExample1.xlsx      Florida         25000
+SubawardBudgetExample2.xlsx      Ecotek          25000
+SubawardBudgetExample2.xlsx      Purdue          20000
+SubawardBudgetExample2.xlsx      Mayo            19782
+SubawardBudgetExample3.xlsx      U WA            25000
+SubawardBudgetExample3.xlsx      U CO            25000
+SubawardBudgetExample3.xlsx      Null            25000
+SubawardBudgetExample3.xlsx      Mayo            22893
+
+------------
+Final Aggregated Data by Location:
+------------
+Location        Amount
+--------------------------
+Ecotek          25000
+Florida         25000
+Indiana         25000
+Mayo            63312
+Null            25000
+Purdue          45000
+U CO            25000
+U WA            25000
+
+
+Press any key to exit...
+
